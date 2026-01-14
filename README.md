@@ -74,10 +74,9 @@ A short 1–2 sentence description with an outcome or metric if available.
 ---
 
 ## 📫 Get in touch
-- Email: your.email@example.com
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Website / Blog: https://yourwebsite.example
+- Email: rajeesingh@outlook.com
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/rajeesingh)
+- Website / Blog: https://rajeev.site44.com
 
 Prefer a different contact method? Replace or add your preferred channels above.
 
