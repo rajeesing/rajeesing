@@ -3,8 +3,6 @@
 > Crafting reliable software, building delightful developer experiences, and contributing to open source.
 
 [![Follow on GitHub](https://img.shields.io/github/followers/rajeesing?label=Follow&style=social)](https://github.com/rajeesing)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeesing&layout=compact&theme=gruvbox)](https://github.com/rajeesing)
-[![Stats](https://github-readme-stats.vercel.app/api?username=rajeesing&show_icons=true&theme=gruvbox)](https://github.com/rajeesing)
 
 ---
 
