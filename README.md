@@ -11,10 +11,10 @@
 ## 🚀 About Me
 I build production-ready software with a focus on reliability, maintainability, and delightful developer experience. I enjoy solving hard problems, automating workflows, and mentoring others. I contribute to open-source projects and love learning new technologies.
 
-- 🔭 I’m currently working on: **[Project Name]** — short description of what it does and why it matters.
-- 🌱 I’m learning: [Tech or Topic you're learning right now]
+- 🔭 I’m currently working on: **hrseg** — this is a personal home project that means a lot to me. It’s especially meaningful because it gives me the opportunity to apply everything I’ve learned to build a robust, modern, and highly effective application featuring multiple machine learning models.
+- 🌱 I’m learning: AI/ML and building many solutions
 - 💬 Ask me about: Architecture, testing, developer tooling, or open-source contribution workflows
-- ⚡ Fun fact: [One interesting personal or professional fun fact]
+- ⚡ Fun fact: I live in Skokie, which proudly called itself ‘The World’s Largest Village’ for years — so technically, I’m from the biggest small town on the planet… which explains why I still wave at every neighbor like we’re all in one giant backyard BBQ.
 
 ---
 
@@ -32,7 +32,7 @@ I build production-ready software with a focus on reliability, maintainability, 
 - C#, JavaScript/TypeScript, Python, C/C++
 
 ### Frameworks & Libraries
-- React, Next.js, Node.js, Flask, Blazor
+- .Net Core, React, Node.js, Flask, Blazor
 
 ### DevOps & Cloud
 - Docker, Kubernetes, Terraform, AWS (Lambda, ECS, EKS), Azure, GitHub Actions
